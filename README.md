@@ -49,4 +49,7 @@ The branch my-conferences has the same conferences, but annotated with priority 
 * ??? EUR
 
 ### SoCraTes BE
-???
+* <http://socratesbe.org/>
+* ???, should be weekend
+* ???, Belgium
+* ???, should be cheap-ish
