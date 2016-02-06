@@ -28,3 +28,4 @@ This branch (my-conferences) has conferences annotated with priority and subject
 * ???, should be weekend
 * ???, Belgium
 * ???, should be cheap-ish
+* Last year was awesome, so many great people in the community, I would love to share this with a few colleagues.
