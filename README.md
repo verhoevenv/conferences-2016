@@ -22,26 +22,6 @@ This branch (my-conferences) has conferences annotated with priority and subject
 * Rotterdam, Netherlands
 * 160 EUR (early bird), 192 EUR (regular)
 
-### The Lead Developer Conference
-* <http://2016.theleaddeveloper.com/>
-* Thu 23 Jun - Fri 24 Jun (2 days)
-* London, UK
-* 450 GBP (early bird), 550 GBP (standard), 650 GBP (late)
-
-## August
-### Dare festival
-* <http://www.darefest.be/>
-* Wed 24 Aug - Fri 26 Aug (3 days)
-* Antwerp, Belgium
-* 300 EUR
-
-## November
-### Devoxx Belgium
-* <https://www.devoxx.com/>, <https://www.devoxx.be/>
-* Mon 7 Nov - Fri 11 Nov (1 day)
-* Antwerp, Belgium
-* ??? EUR
-
 ### SoCraTes BE
 * <http://socratesbe.org/>
 * ???, should be weekend
