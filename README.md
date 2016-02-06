@@ -21,6 +21,7 @@ This branch (my-conferences) has conferences annotated with priority and subject
 * Fri 17 Jun (1 day)
 * Rotterdam, Netherlands
 * 160 EUR (early bird), 192 EUR (regular)
+* Seems pretty cheap and I'm hoping to connect more to the software craftsmanship community. Corey Haines will be there!
 
 ### SoCraTes BE
 * <http://socratesbe.org/>
