@@ -13,13 +13,7 @@ This branch (my-conferences) has conferences annotated with priority and subject
 * Thu 28 Jan - Fri 29 Jan (2 days)
 * Brussels, Belgium
 * 549 EUR
-
-## May
-### Techorama
-* <http://www.techorama.be/>
-* Tue 3 May - Wed 4 May (2 days)
-* Mechelen, Belgium
-* 400 EUR
+* I went! [Report on my blog](http://verhoevenv.github.io/2016/02/01/notes-from-ddd-europe.html).
 
 ## June
 ### Joy of Coding
