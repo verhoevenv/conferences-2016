@@ -2,9 +2,9 @@
 
 My employer wanted me to set up a plan of what conferences I wanted to visit this year, so here we go.
 
-This branch (all-conferences) holds an objective listing of the conferences I know about. Feel free to clone or pull-request.
+The branch all-conferences holds an objective listing of the conferences I know about. Feel free to clone or pull-request.
 
-The branch my-conferences has the same conferences, but annotated with priority and subjective reasons for why I would like to go there.
+This branch (my-conferences) has conferences annotated with priority and subjective reasons for why I would like to go there.
 
 ## January
 
