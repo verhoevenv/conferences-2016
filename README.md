@@ -28,6 +28,7 @@ This branch (my-conferences) has conferences annotated with priority and subject
 * Sat ???
 * ???, Belgium
 * Free!
+* Always a lot of learning!
 
 ### SoCraTes BE
 * <http://socratesbe.org/>
