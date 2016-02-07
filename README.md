@@ -60,3 +60,9 @@ The branch my-conferences has the same conferences, but annotated with priority 
 * ???, should be weekend
 * ???, Belgium
 * ???, should be cheap-ish
+
+### XP Days
+
+### Mini XP Day
+
+### Agile Tour Brussels
