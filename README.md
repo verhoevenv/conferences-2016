@@ -48,7 +48,7 @@ The branch my-conferences has the same conferences, but annotated with priority 
 * Antwerp, Belgium
 * ??? EUR
 
-## Unkown date
+## Unknown date
 ### Global Day of Code Retreat
 * http://globalday.coderetreat.org/
 * Sat ???
