@@ -23,6 +23,7 @@ This branch (my-conferences) has conferences and other learning activities annot
 
 ### Exploration days
 * Fri 18 Mar (1 day)
+* In-house
 * Charts in Ventouris
 
 ## June
