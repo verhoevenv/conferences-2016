@@ -48,6 +48,13 @@ The branch my-conferences has the same conferences, but annotated with priority 
 * Antwerp, Belgium
 * ??? EUR
 
+## December
+### Agile Testing Days
+* <http://www.agiletestingdays.com/>
+* Wed 7 Dec - Fri 9 Dec (3 days)
+* Potsdam, Germany
+* 1450 EUR (early bird), 1850 EUR (regular)
+
 ## Unknown date
 ### Global Day of Code Retreat
 * http://globalday.coderetreat.org/
