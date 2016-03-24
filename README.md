@@ -45,7 +45,7 @@ This branch (my-conferences) has conferences and other learning activities annot
 
 ### SoCraTes BE
 * <http://socratesbe.org/>
-* ???, should be weekend
+* ???, last year it was Thursday evening - Sunday noon (1 working day)
 * ???, Belgium
-* ???, should be cheap-ish
+* ???, (300 EUR last year)
 * Last year was awesome, so many great people in the community, I would love to share this with a few colleagues.
