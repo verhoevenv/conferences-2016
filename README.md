@@ -63,6 +63,7 @@ The branch my-conferences has the same conferences, but annotated with priority 
 
 ### XP Days
 
-### Mini XP Day
-
 ### Agile Tour Brussels
+
+### ~~~Mini XP Day~~~
+* Not happening in 2016
