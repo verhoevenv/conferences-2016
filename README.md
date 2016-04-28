@@ -41,6 +41,13 @@ The branch my-conferences has the same conferences, but annotated with priority 
 * Antwerp, Belgium
 * 300 EUR
 
+## September
+### SoCraTes BE
+* <http://socratesbe.org/>
+* Thu 15 Sep - Sun 18 Sep (2 working days)
+* ???, Belgium
+* ???, should be cheap-ish
+
 ## November
 ### Devoxx Belgium
 * <https://www.devoxx.com/>, <https://www.devoxx.be/>
@@ -61,12 +68,6 @@ The branch my-conferences has the same conferences, but annotated with priority 
 * Sat ???
 * ???, Belgium
 * Free!
-
-### SoCraTes BE
-* <http://socratesbe.org/>
-* ???, should be weekend
-* ???, Belgium
-* ???, should be cheap-ish
 
 ### XP Days
 
