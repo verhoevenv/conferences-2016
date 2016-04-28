@@ -34,6 +34,14 @@ This branch (my-conferences) has conferences and other learning activities annot
 * 160 EUR (early bird), 192 EUR (regular)
 * Seems pretty cheap and I'm hoping to connect more to the software craftsmanship community. Corey Haines will be there!
 
+## September
+### SoCraTes BE
+* <http://socratesbe.org/>
+* Thu 15 Sep - Sun 18 Sep (1 working day)
+* ???, Belgium
+* ???, (300 EUR last year)
+* Last year was awesome, so many great people in the community, I would love to share this with a few colleagues.
+
 ## Unkown date
 ### Course "Coachend Leidinggeven" (Acerta)
 
@@ -43,10 +51,3 @@ This branch (my-conferences) has conferences and other learning activities annot
 * ???, Belgium
 * Free!
 * Always a lot of learning!
-
-### SoCraTes BE
-* <http://socratesbe.org/>
-* ???, last year it was Thursday evening - Sunday noon (1 working day)
-* ???, Belgium
-* ???, (300 EUR last year)
-* Last year was awesome, so many great people in the community, I would love to share this with a few colleagues.
