@@ -14,6 +14,12 @@ The branch my-conferences has the same conferences, but annotated with priority 
 * Brussels, Belgium
 * 549 EUR
 
+## April
+### London Lean Kanban Days
+* Mon 18 - Tue 19 April (2 days)
+* London, England
+* 240 GBP (early bird), 300 GBP (full)
+
 ## May
 ### Techorama
 * <http://www.techorama.be/>
