@@ -27,6 +27,12 @@ The branch my-conferences has the same conferences, but annotated with priority 
 * Mechelen, Belgium
 * 400 EUR
 
+### nCrafts
+* <http://ncrafts.io/>
+* Thu 12 May - Fri 13 May (2 days)
+* Paris, France
+* 290 EUR (early), 350 EUR (regular), 430 EUR (late)
+
 ## June
 ### Joy of Coding
 * http://joyofcoding.org/
