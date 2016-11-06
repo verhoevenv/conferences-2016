@@ -61,6 +61,12 @@ The branch my-conferences has the same conferences, but annotated with priority 
 * ???, should be cheap-ish
 
 ## November
+### Code Mesh
+* <http://www.codemesh.io/>
+* Thu 3 Nov - Fri 4 Nov (2 days)
+* London, UK
+* 750 GBP
+
 ### Devoxx Belgium
 * <https://www.devoxx.com/>, <https://www.devoxx.be/>
 * Mon 7 Nov - Fri 11 Nov (1 day)
